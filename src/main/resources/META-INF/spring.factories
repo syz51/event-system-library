@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.example.demolibrary.handler.EventHandlerConfiguration,\
+  com.example.demolibrary.publisher.PublisherConfiguration
